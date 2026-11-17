@@ -32,6 +32,21 @@ kullanılmaz ve paylaşılmaz. Kullanım Health Connect izinleri politikasına u
 - Konum: Android ayarlarından TRIARC'ın konum izni kaldırılır; şehir arama kutusuyla da seçilebilir.
 - Bütün veriler: Ayarlar › Hesap ve veri › dışa aktar (JSON/CSV) ve SİL (geri alınamaz; adımlar ve konum dahil).
 
+## Hesap silme {#hesap-silme}
+TRIARC hesabını ve bütün verilerini iki yoldan silebilirsin:
+1. Uygulamada: Ayarlar › Hesap ve veri › SİL. Onaylayınca hesap hemen silinir (geri alınamaz).
+2. Uygulama telefonunda değilse: hesabının e-posta adresinden (ya da Telegram ile girdiysen Telegram kullanıcı adınla)
+   faisoftware.support@gmail.com adresine "TRIARC hesabımı sil" yaz. İstek en geç 30 gün içinde yerine getirilir
+   ve sana yanıtla bildirilir.
+
+Silinenler: hesap ve giriş kimlikleri (Google, Telegram), oturumlar, bildirim kaydı, bütün Winter Arc kayıtları
+(namaz, öğünler, kilo ve ölçüler, antrenmanlar, adımlar, okuma, görevler, plan, konum ve şehir, geri bildirim mesajları).
+Saklanan bir şey kalmaz; sunucu yedeklerindeki kopyalar en geç 30 gün içinde kendiliğinden silinir.
+
+*Account deletion (EN): in the app, Settings › Account and data › DELETE; or email faisoftware.support@gmail.com from
+your account's address with "Delete my TRIARC account". All account data and records are deleted; backup copies
+expire within 30 days.*
+
 ## Güvenlik
 Uygulama ile sunucu arasındaki her bağlantı şifrelidir (HTTPS). Oturum anahtarı telefonda güvenli depoda tutulur.
 
